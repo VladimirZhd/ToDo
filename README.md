@@ -1,10 +1,8 @@
-﻿# Overview
+# Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is a simple C# console To-Do app. You can create a todo list, add, remove, or complete a task. Your list will be displayed to the console. 
 
-{Provide a description the software that you wrote.}
-
-{Describe your purpose for writing this software.}
+The purpose behind writing this software was for me to get more familiar with C#, before I will do a project with Unity game engine. I tried to learn basic syntax and OOP in C#. 
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.}
 
@@ -12,7 +10,7 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I've used Visual Studio for Mac. It is a little different from the tool I've used before. I couldn't figure out how to publish a GitHub repository from Visual Studio, so I did all of the version control using VS code. 
 
 {Describe the programming language that you used and any libraries.}
 
